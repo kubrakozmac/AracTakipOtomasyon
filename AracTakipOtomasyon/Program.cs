@@ -10,6 +10,7 @@ namespace AracTakipOtomasyon
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
